@@ -1,0 +1,7 @@
+C:\Users\lucas\Desktop\Projetos\Visual Studio\Fluxo\Fluxo\bin\Debug\Fluxo.exe.config
+C:\Users\lucas\Desktop\Projetos\Visual Studio\Fluxo\Fluxo\bin\Debug\Fluxo.exe
+C:\Users\lucas\Desktop\Projetos\Visual Studio\Fluxo\Fluxo\bin\Debug\Fluxo.pdb
+C:\Users\lucas\Desktop\Projetos\Visual Studio\Fluxo\Fluxo\obj\Debug\Fluxo.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\Projetos\Visual Studio\Fluxo\Fluxo\obj\Debug\Fluxo.exe
+C:\Users\lucas\Desktop\Projetos\Visual Studio\Fluxo\Fluxo\obj\Debug\Fluxo.pdb
+C:\Users\lucas\Desktop\Projetos\Visual Studio\Fluxo\Fluxo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
